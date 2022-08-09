@@ -44,7 +44,7 @@ public class SheetWriter implements Writer {
 
     private static final String SERVICE_ACCOUNT_FILE_PATH = "/botstaticsheet-4b94c9a9f58d.json";
     public static final String BRIGHTERSHEETBOT_BOTSTATICSHEET_IAM_EMAIL = "brightersheetbot@botstaticsheet.iam.gserviceaccount.com";
-    public static final String API_KEY = "AIzaSyDLs539X6lzYuguDFr8v1U_ltx4fe_U8EM";
+    public static final String API_KEY = "API_KEY";
 
     private static int counter;
 
